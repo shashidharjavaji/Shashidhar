@@ -1,0 +1,32 @@
+ 1.git clone https://github.com/shashidharjavaji/Shashidhar.git
+ git checkout shashidhar
+
+ git remote -v
+ cd shashidhar
+  
+git remote -v
+
+ git remote add upstream https://github.com/shashidharjavaji/Shashidhar.git
+  
+ git remote -v
+   
+git branch -a
+   
+ git pull
+   
+git branch secondTask
+  
+ git checkout secondTask
+ 
+ touch reversearray_shashidhar.c
+   
+ history>secondTask.txt
+
+  
+
+  git status
+  
+ git add 
+ git commit -m "this is my second task"
+   
+git push "https://github.com/shashidharjavaji/Shashidhar.git"
